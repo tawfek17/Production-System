@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "productionSystem": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
